@@ -1,4 +1,4 @@
-# countries_app
+# Countries App
 
 A Flutter application that displays information about countries around the world.
 
